@@ -1,4 +1,4 @@
-package com.projectsky.weatherconsumer.constants;
+package com.projectsky.weatherconsumer.enums;
 
 public enum Condition {
 

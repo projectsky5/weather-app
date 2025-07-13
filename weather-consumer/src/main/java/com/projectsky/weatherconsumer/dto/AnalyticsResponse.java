@@ -1,6 +1,6 @@
 package com.projectsky.weatherconsumer.dto;
 
-import com.projectsky.weatherconsumer.constants.Condition;
+import com.projectsky.weatherconsumer.enums.Condition;
 
 import java.util.Map;
 
